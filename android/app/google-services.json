@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028245076872",
+    "project_id": "authfinal-2fc4e",
+    "storage_bucket": "authfinal-2fc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028245076872:android:cada5ab00eb84d03c6d83d",
+        "android_client_info": {
+          "package_name": "com.example.addapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-XcOq_XWVbV3tkdvPW_a2BIXOycF2KDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
